@@ -467,7 +467,7 @@ c. *m* = *6D~16~*
 d. *H* = *48~16~*
 
 *Cara:*  
-a. a. Karakter a memiliki nilai desimal 97 Konversi ke heksadesimal 97+166 sisa 1
+a. Karakter a memiliki nilai desimal 97 Konversi ke heksadesimal 97+166 sisa 1
 Hasil: 61~16~
   
 
