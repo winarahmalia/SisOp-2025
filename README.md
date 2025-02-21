@@ -450,7 +450,7 @@ c. *24~16~* = *$*
 d. *77~16~* = *w*
 
 *Cara:*  
-a. *41~16~* = 65 (desimal) = *A*  
+a. *41~16~* = 100 0001 ( Tabel ASCII) = *A*  
 
 ---
 
@@ -467,7 +467,9 @@ c. *m* = *6D~16~*
 d. *H* = *48~16~*
 
 *Cara:*  
-a. *a* = 97 (desimal) = *61~16~*  
+a. a. Karakter a memiliki nilai desimal 97 Konversi ke heksadesimal 97+166 sisa 1
+Hasil: 61~16~
+  
 
 
 ---
