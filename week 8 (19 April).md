@@ -1,4 +1,12 @@
+# SISTEM OPERASI  
 
+**Nama** : Wina Rahmalia  
+**NRP** : 3124500052  
+**Dosen Pengajar** : Ferry Astika Saputra  
+**PROGRAM STUDI D3 TEKNIK INFORMATIKA POLITEKNIK ELEKTRONIKA NEGERI SURABAYA (PENS)**  
+**TAHUN** : 2024  
+
+---
 # 1. Jelaskan dalam 2 pargraph disertai dengan gambar tentang konsep single thread dan multithread!
 
 ### Single Thread
