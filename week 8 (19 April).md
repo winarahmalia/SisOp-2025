@@ -13,6 +13,7 @@ Kelebihan dari *single thread* adalah kesederhanaannya. Karena hanya ada satu ja
 Sebaliknya, *multithreading* adalah pendekatan di mana sebuah program dapat membuat dan menjalankan beberapa thread secara bersamaan (paralel atau semi-paralel). Setiap thread dapat menjalankan bagian berbeda dari program pada waktu yang sama. Contohnya, dalam aplikasi web server, satu thread bisa menangani permintaan pengguna pertama, sementara thread lain melayani pengguna kedua. Ini membuat program menjadi lebih cepat, efisien, dan responsif.
 
 Multithreading sangat bermanfaat dalam aplikasi seperti game, pemrosesan data besar, dan aplikasi real-time. Namun, juga menimbulkan tantangan seperti *race condition* dan *deadlock*. Untuk itu dibutuhkan teknik sinkronisasi seperti `mutex`, `semaphore`, atau `lock`.
+![image](https://github.com/user-attachments/assets/ad5200e2-8b47-41e8-9ca3-bba2c9ffea9a)
 
 ---
 
