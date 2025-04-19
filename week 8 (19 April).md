@@ -119,8 +119,9 @@ Setelah proses kompilasi selesai tanpa error, program dijalankan menggunakan per
 
 # 3.	Buat PPT tentang evolusi teknilogi processor Intel dengan menggunakan 
 > Gunakan referensi: [YouTube Video](https://www.youtube.com/watch?v=PT787d9odKk)
-> jawaban : [Presentasi Evolusi Prosesor Intel di Canva](https://www.canva.com/design/DAGk88LbSxM/6lY13AAUIbxi_D-9A4R5Bw/edit?utm_content=DAGk88LbSxM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-> [Presentasi Google Slides: Evolusi Prosesor Intel](https://docs.google.com/presentation/d/10JqO_lUV-dzuUCwfYEbyrzs7L1NsJFck/edit?usp=sharing&ouid=109540517026568481415&rtpof=true&sd=true)
+
+jawaban : [Presentasi Evolusi Prosesor Intel di Canva](https://www.canva.com/design/DAGk88LbSxM/6lY13AAUIbxi_D-9A4R5Bw/edit?utm_content=DAGk88LbSxM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentasi Google Slides: Evolusi Prosesor Intel](https://docs.google.com/presentation/d/10JqO_lUV-dzuUCwfYEbyrzs7L1NsJFck/edit?usp=sharing&ouid=109540517026568481415&rtpof=true&sd=true)
 
 ---
 
