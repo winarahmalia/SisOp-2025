@@ -6,6 +6,7 @@
 Konsep *single thread* mengacu pada model eksekusi di mana hanya terdapat satu thread (utas) yang menangani seluruh tugas dari awal hingga akhir dalam suatu program. Thread adalah unit terkecil dari pemrosesan yang dapat dijadwalkan oleh sistem operasi. Dalam sistem *single-threaded*, semua instruksi diproses secara berurutan. Jika terdapat operasi yang memakan waktu lama, maka seluruh program akan berhenti sejenak menunggu operasi tersebut selesai, baru kemudian melanjutkan ke langkah berikutnya.
 
 Kelebihan dari *single thread* adalah kesederhanaannya. Karena hanya ada satu jalur eksekusi, tidak ada risiko konflik antar thread seperti *race condition* atau *deadlock*. Ini membuat proses *debugging* lebih mudah. Namun, kekurangannya cukup signifikan terutama dalam hal performa dan efisiensi karena tidak dapat memanfaatkan kemampuan prosesor modern yang memiliki banyak inti (*cores*).
+![image](https://github.com/user-attachments/assets/cb3416ba-a914-4c91-be60-21148575448d)
 
 ### Multithread
 
