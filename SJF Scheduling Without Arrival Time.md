@@ -1,5 +1,7 @@
 # SJF Scheduling Without Arrival Time
 
+![image](https://github.com/user-attachments/assets/24b16433-cbdf-4190-a282-4c5488f5e78a)
+
 ## Penjelasan:
 - **Non-Preemptive** → Setelah suatu proses mulai dieksekusi, maka tidak akan dihentikan hingga selesai.
 - Karena **tidak ada waktu kedatangan**, maka semua proses dianggap tiba secara bersamaan.
