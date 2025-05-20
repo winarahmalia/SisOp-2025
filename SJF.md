@@ -18,6 +18,11 @@
 
 ## SJF Scheduling Without Arrival Time
 
+![image](https://github.com/user-attachments/assets/0cc44ecb-9ab5-43e8-a073-42f8b7c19c67)
+
+![image](https://github.com/user-attachments/assets/791a5dc3-d21d-47ce-a5b2-39a8689b672f)
+
+
 ### Penjelasan:
 - **Non-Preemptive** → Setelah suatu proses mulai dieksekusi, maka tidak akan dihentikan hingga selesai.
 - Karena tidak ada waktu kedatangan (arrival time), maka semua proses dianggap tiba secara bersamaan.
@@ -41,6 +46,11 @@ Algoritma SJF Non-Preemptive memberikan waktu tunggu dan turnaround time yang op
 
 ## SJF Scheduling With Arrival Time
 
+![image](https://github.com/user-attachments/assets/673e3a8b-1faf-4e2a-8f1f-c2f593d6dba3)
+
+![image](https://github.com/user-attachments/assets/051606d9-f7d2-4c69-a969-4f9176386cf8)
+
+
 ### Proses dan Eksekusi:
 - **P3 (AT=0, BT=3)** → CT = 3, TAT = 3, WT = 0  
 - Proses selanjutnya: P1 (AT=2), P2 (AT=1)  
@@ -55,6 +65,8 @@ Algoritma SJF Non-Preemptive memberikan waktu tunggu dan turnaround time yang op
 ---
 
 ## SRTF Scheduling Algorithm
+
+![image](https://github.com/user-attachments/assets/895cdbef-347e-44f1-9fa2-d78d72d55a5d)
 
 ### Data Awal:
 
