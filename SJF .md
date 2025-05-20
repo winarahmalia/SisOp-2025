@@ -1,4 +1,4 @@
-```
+
 LAPORAN SISTEM OPERASI
 TUGAS CODING UNTUK SJF DAN SRTF
  
@@ -114,7 +114,7 @@ Jika dioptimalkan sepenuhnya, urutan setelah t=8 akan menjadi P5 → P1, yang ak
 
 
 
-```
+
 
 # SJF Scheduling Without Arrival Time
 
