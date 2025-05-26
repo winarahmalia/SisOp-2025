@@ -100,6 +100,7 @@ Algoritma SJF Non-Preemptive memberikan waktu tunggu dan turnaround time yang op
 
 
 ### Perhitungan Metrik:
+![WhatsApp Image 2025-05-26 at 13 36 38_3a8cc9ad](https://github.com/user-attachments/assets/00dc7f03-1e41-400c-9b36-516ddad5f59c)
 
 #### Completion Time (CT):
 
