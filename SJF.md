@@ -140,3 +140,5 @@ Algoritma SJF Non-Preemptive memberikan waktu tunggu dan turnaround time yang op
 Idealnya, pada waktu 8 proses P5 (BT=2) memiliki sisa waktu lebih pendek dibanding P1 (sisa=3), sehingga **P1 seharusnya di-preempt dan P5 dijalankan terlebih dahulu**. Namun dalam simulasi, P1 tetap berjalan—kemungkinan karena implementasi hanya memeriksa preemption saat proses datang, bukan secara terus-menerus.
 
 Jika dioptimalkan, urutan setelah t=8 akan menjadi **P5 → P1**, yang sedikit menurunkan average waiting time.
+
+link YouTube: https://youtu.be/ZcEoo6JTAPs?feature=shared
