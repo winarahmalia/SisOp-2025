@@ -20,7 +20,7 @@
 
 ![image](https://github.com/user-attachments/assets/0cc44ecb-9ab5-43e8-a073-42f8b7c19c67)
 
-![image](https://github.com/user-attachments/assets/791a5dc3-d21d-47ce-a5b2-39a8689b672f)
+![image](https://github.com/user-attachments/assets/49a935e8-d907-4433-9817-8b54acde3f08)
 
 
 ### Penjelasan:
